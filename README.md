@@ -7,8 +7,6 @@ I have created this small website where the website is quiz for the color mixtur
 ## Installation
 https://vinitp2.github.io/Color_quiz/
 
-<a src ="https://vinitp2.github.io/Color_quiz" target="_blank"> Click here to access the website </a>
-
 ## Usage
 
 The user can start this quiz by clicking the <button> Start </button> button.
@@ -28,6 +26,7 @@ At the end of the game, user can enter thier and save their name to the leaderbo
 <h3>The following is a quick demo of the software</h3>
 
 <video controls>
+  
 <source src="Assets/demo.mp4" type="video/mp4">
 </video>
 
