@@ -86,18 +86,20 @@ function startGame(){
         event.preventDefault();
         if(event.target.textContent === questionArr[i].answer){ // if the answer is correct
             footerEl.textContent = "Correct Answer !";
-            secondsLeft+=15;
+            secondsLeft+=10;
             userScore+=10;  
         }else{ // if the answer is incorrect
             footerEl.textContent = "Wrong Answer !";
-            secondsLeft-=15;
+            secondsLeft-=5;
             userScore-=5;
         }
         
         if(i<questionArr.length-1){ //made a manual loop to avoid event bubbling
             i++;
         }else{
+            if(secondsLeft>0){ //avoid getting negative score
             userScore *=secondsLeft;
+            }
             displayScore();
             return;
         }
