@@ -25,10 +25,8 @@ At the end of the game, user can enter thier and save their name to the leaderbo
 
 <h3>The following is a quick demo of the software</h3>
 
-<video controls>
-  
-<source src="Assets/demo.mp4" type="video/mp4">
-</video>
+
+![demo gif](https://github.com/vinitp2/Color_quiz/assets/73760964/d196fef8-c360-44d5-a7d9-4c9383c8e7e5)
 
 ## License
 N/A
