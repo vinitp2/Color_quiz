@@ -5,6 +5,7 @@
 I have created this small website where the website is quiz for the color mixtures with some styling applied to it with some event listerners.
 
 ## Installation
+<a href ="https://vinitp2.github.io/Color_quiz/" target="_blank"> Click Me to access the website </a>
 https://vinitp2.github.io/Color_quiz/
 
 ## Usage
