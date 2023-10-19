@@ -6,7 +6,7 @@ I have created this small website where the website is quiz for the color mixtur
 
 ## Installation
 <a href ="https://vinitp2.github.io/Color_quiz/" target="_blank"> Click Me to access the website </a>
-<p>https://vinitp2.github.io/Color_quiz/</p>
+
 
 ## Usage
 
